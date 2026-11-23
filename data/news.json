@@ -1,13 +1,21 @@
 {
-  "updated": "2026-11-23 15:12 UTC",
+  "updated": "2026-11-23 15:15 UTC",
   "latest": [
     {
       "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
       "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7751/live/e5488500-e749-11f1-88dc-f746e0cde621.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5454/live/87107a40-e750-11f1-a094-5fdc692f3e33.jpg",
       "source": "BBC Sport",
       "time": 1795446590.0
+    },
+    {
+      "title": "UK confirmed as hosts of 2035 Women's World Cup",
+      "summary": "The UK has been confirmed as the host of the 2035 Women's World Cup.",
+      "link": "https://www.skysports.com/football/news/11095/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031",
+      "image": "https://e0.365dm.com/25/04/1920x1080/skysports-women-world-cup-england_6874715.jpg?20250403093156",
+      "source": "Sky Sports",
+      "time": 1795446300.0
     },
     {
       "title": "PSG had the best attack in Europe but Doué and Kvaratskhelia injuries will test Luis Enrique",
@@ -120,14 +128,6 @@
       "image": "",
       "source": "The Guardian",
       "time": 1795433682.0
-    },
-    {
-      "title": "WSL talking points: Captain Spence inspires Spurs shock win at City and Lionesses impress",
-      "summary": "We may have a proper title race on our hands as City and Chelsea drop points and LCL strengthen their grip on third placeDrew Spence rolled back the years with ...",
-      "link": "https://www.theguardian.com/football/2026/nov/23/wsl-talking-points-tottenham-london-city-lionesses-chelsea-arsenal",
-      "image": "",
-      "source": "The Guardian",
-      "time": 1795432745.0
     }
   ],
   "international": [
@@ -135,9 +135,17 @@
       "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
       "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7751/live/e5488500-e749-11f1-88dc-f746e0cde621.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5454/live/87107a40-e750-11f1-a094-5fdc692f3e33.jpg",
       "source": "BBC Sport",
       "time": 1795446590.0
+    },
+    {
+      "title": "UK confirmed as hosts of 2035 Women's World Cup",
+      "summary": "The UK has been confirmed as the host of the 2035 Women's World Cup.",
+      "link": "https://www.skysports.com/football/news/11095/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031",
+      "image": "https://e0.365dm.com/25/04/1920x1080/skysports-women-world-cup-england_6874715.jpg?20250403093156",
+      "source": "Sky Sports",
+      "time": 1795446300.0
     },
     {
       "title": "Morocco and Senegal await Afcon final verdict after court case",
@@ -326,20 +334,20 @@
       "time": 1795424460.0
     },
     {
-      "title": "Euro Debrief: Bayern and PSG suffer big injury setbacks",
-      "summary": "",
-      "link": "https://www.skysports.com/football/news/11095/13612575/harry-kane-injured-as-bayern-munich-and-psg-face-injury-crises-plus-lamine-yamal-and-kylian-mbappe-miss-penalties",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-football-euro-debrief_7414161.jpg?20261123083630",
-      "source": "Sky Sports",
-      "time": 1795424400.0
-    },
-    {
       "title": "Holloway sacked by Swindon after two seasons",
       "summary": "Swindon sack manager Ian Holloway following their poor start to the League Two season.",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5yrg1r6ezno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f225/live/e9632140-4672-11f1-8acc-4fb874244a9c.jpg",
       "source": "BBC Sport",
       "time": 1795423493.0
+    },
+    {
+      "title": "‘Haaland must be worried’: Thierno Barry’s rise has David Moyes purring",
+      "summary": "Everton striker has worked hard to find his scoring touch after admitting he hit ‘rock bottom’ at times last seasonA most unexpected name sits behind the phenom...",
+      "link": "https://www.theguardian.com/football/2026/nov/23/thierno-barry-rise-david-moyes-purring-everton",
+      "image": "",
+      "source": "The Guardian",
+      "time": 1795420851.0
     }
   ],
   "creators": []
