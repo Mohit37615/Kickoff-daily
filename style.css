@@ -1,0 +1,150 @@
+body {
+  background: #0d1117;
+  color: #e6edf3;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  background: #161b22;
+  text-align: center;
+  padding: 20px 10px;
+}
+
+.accent { color: #2ea043; }
+
+.tagline {
+  color: #8b949e;
+  margin: 5px 0 0;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 15px;
+}
+
+nav a {
+  color: #e6edf3;
+  text-decoration: none;
+}
+
+nav a:hover { color: #2ea043; }
+
+main {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+h2 {
+  border-left: 4px solid #2ea043;
+  padding-left: 10px;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 15px;
+}
+
+.card {
+  background: #161b22;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.card a {
+  color: #58a6ff;
+  text-decoration: none;
+}
+
+.card p { color: #8b949e; }
+
+/* Score cards */
+.score-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #161b22;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.score {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.status {
+  color: #8b949e;
+  font-size: 13px;
+}
+
+/* Lineup */
+.lineup-teams {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+
+.lineup-team {
+  background: #161b22;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.lineup-team ul { padding-left: 18px; }
+
+/* News cards with photo */
+.news-card {
+  display: block;
+  background: #161b22;
+  border-radius: 10px;
+  overflow: hidden;
+  text-decoration: none;
+  color: #e6edf3;
+}
+
+.news-card:hover {
+  outline: 1px solid #2ea043;
+}
+
+.news-card img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  display: block;
+}
+
+.no-photo {
+  height: 160px;
+  background: #21262d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+}
+
+.news-text {
+  padding: 12px 14px;
+}
+
+.news-text h3 {
+  margin: 0 0 8px;
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+.news-text p {
+  color: #8b949e;
+  font-size: 13px;
+  margin: 0 0 8px;
+}
+
+.source {
+  color: #2ea043;
+  font-size: 12px;
+}

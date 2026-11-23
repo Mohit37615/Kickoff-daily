@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Match Centre | Kickoff Daily</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="match.css">
+</head>
+<body>
+
+  <header>
+    <h1>Kickoff <span class="accent">Daily</span></h1>
+    <p class="tagline">On the field. Off the field.</p>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="international.html">International</a>
+      <a href="club.html">Club</a>
+      <a href="leagues.html">Leagues</a>
+      <a href="match.html">Match Centre</a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Row of today's matches: click one to open it -->
+    <div id="match-list"></div>
+
+    <!-- Top of the match: teams, score, time -->
+    <div id="match-header"></div>
+
+    <!-- Tabs -->
+    <div class="tabs">
+      <button class="tab active" data-tab="details">Details</button>
+      <button class="tab" data-tab="lineups">Lineups</button>
+      <button class="tab" data-tab="standings">Standings</button>
+      <button class="tab" data-tab="matches">Matches</button>
+    </div>
+
+    <div id="details" class="panel active"></div>
+    <div id="lineups" class="panel"></div>
+    <div id="standings" class="panel"></div>
+    <div id="matches" class="panel"></div>
+  </main>
+
+  <script src="match.js"></script>
+</body>
+</html>
