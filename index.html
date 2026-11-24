@@ -1,43 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Kickoff Daily</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9A%BD%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800;900&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
-
-  <header>
-    <h1>Kickoff <span class="accent">Daily</span></h1>
-    <p class="tagline">On the field. Off the field.</p>
-
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="international.html">International</a>
-      <a href="club.html">Club</a>
-      <a href="leagues.html">Leagues</a>
-      <a href="scores.html">Scoreboard</a>
-      <a href="lineups.html">Lineups</a>
-    </nav>
-  </header>
-
+<body data-page="home">
+  <div id="site-header"></div>
   <main>
-    <section>
-      <h2>Top Story</h2>
-      <div id="featured" class="cards"></div>
-    </section>
-    
-    <section>
-      <h2>Latest News</h2>
-      <div id="latest-news" class="cards"></div>
-      <p id="updated" class="status"></p>
+    <div class="hero" id="hero"></div>
+
+    <section id="today-section">
+      <h2 class="section-title">Matches</h2>
+      <div class="strip" id="today-strip"></div>
     </section>
 
-    <section>
-      <h2>Scoreboard</h2>
-      <div id="scoreboard" class="cards"></div>
-    </section>
+    <h2 class="section-title">Latest News</h2>
+    <div class="grid" id="latest-news"></div>
   </main>
-
+  <div id="site-footer"></div>
   <script src="script.js"></script>
 </body>
 </html>
