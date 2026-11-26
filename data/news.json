@@ -1,8 +1,40 @@
 {
-  "updated": "2026-11-26 00:45 UTC",
+  "updated": "2026-11-26 08:59 UTC",
   "latest": [
     {
-      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+      "title": "Weekly sports quiz: What year will the UK host the Women's World Cup?",
+      "summary": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
+      "link": "https://www.bbc.co.uk/sport/articles/cm5y1g91xq3po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5a8/live/4c6ac610-e8fa-11f1-a094-5fdc692f3e33.png",
+      "source": "BBC Sport",
+      "time": 1795680165.0
+    },
+    {
+      "title": "Dundee United's Farrugia out until new year - gossip",
+      "summary": "Injury blow for Dundee United midfielder as Monaco boss pinpoints Hearts danger men.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6m2lv3k29gpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d731/live/ac0d2b40-e96c-11f1-99b6-a35a62fa4264.png",
+      "source": "BBC Sport",
+      "time": 1795678941.0
+    },
+    {
+      "title": "Chelsea Q&A! Submit your questions as club backs Alonso",
+      "summary": "",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829",
+      "source": "Sky Sports",
+      "time": 1795678140.0
+    },
+    {
+      "title": "The Portuguese second-tier team hosting Celtic in Europe",
+      "summary": "Portuguese second-tier side Torreense host Celtic in the Europa League. But how did they end up here?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c7/live/e5a471f0-c2fd-11f1-b8c6-6d610e41a5d9.jpg",
+      "source": "BBC Sport",
+      "time": 1795677972.0
+    },
+    {
+      "title": "More ref frustration as Pochettino's chaotic start at Man Utd continues",
       "summary": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aff/live/89296710-e930-11f1-99a1-253766e7ad8b.jpg",
@@ -16,6 +48,14 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8572/live/fb0ba300-e92d-11f1-a094-5fdc692f3e33.jpg",
       "source": "BBC Sport",
       "time": 1795652548.0
+    },
+    {
+      "title": "Pochettino claims officials ‘punished’ Manchester United in chaotic Sporting draw",
+      "summary": "Head coach questions ‘difficult to understand’ decisionsArgentinian offers support to Lammens after errorsMauricio Pochettino claimed Manchester United were pun...",
+      "link": "https://www.theguardian.com/football/2026/nov/25/mauricio-pochettino-officials-punished-manchester-united-sporting",
+      "image": "",
+      "source": "The Guardian",
+      "time": 1795650656.0
     },
     {
       "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
@@ -66,7 +106,7 @@
       "time": 1795647540.0
     },
     {
-      "title": "Gordon scores twice in Barca CL win as Bayern lose at Lille",
+      "title": "Gordon scores twice in Barcelona win as Bayern lose at Lille",
       "summary": "",
       "link": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-barcelona-anthony-gordon_7416676.jpg?20261125224913",
@@ -88,49 +128,17 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6340/live/dffcada0-e920-11f1-99a1-253766e7ad8b.jpg",
       "source": "BBC Sport",
       "time": 1795645971.0
-    },
-    {
-      "title": "PSG held by Roma as in-form Malen scores again",
-      "summary": "Donyell Malen scores for the fourth Champions League game running as Roma ends Paris St-Germain's 100% start to the competition.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174b/live/89b8f780-e91d-11f1-a094-5fdc692f3e33.jpg",
-      "source": "BBC Sport",
-      "time": 1795645634.0
-    },
-    {
-      "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
-      "summary": "Bayern Munich suffer their first defeat of the Champions League campaign as Lille find the net twice in three minutes in the second half, including a comical Al...",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2605/live/bdc03610-e91d-11f1-a094-5fdc692f3e33.jpg",
-      "source": "BBC Sport",
-      "time": 1795645497.0
-    },
-    {
-      "title": "Isak scores twice as clinical Liverpool beat Brugge",
-      "summary": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last  Champi...",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7011/live/1961c530-e91c-11f1-99b6-a35a62fa4264.jpg",
-      "source": "BBC Sport",
-      "time": 1795644739.0
-    },
-    {
-      "title": "Gordon stars in comfortable Barca win over Sabah",
-      "summary": "Anthony Gordon scores Barcelona's opening two goals as they ease past Sabah with a 4-1 win in the Champions League.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebd6/live/0a4713c0-e903-11f1-a094-5fdc692f3e33.jpg",
-      "source": "BBC Sport",
-      "time": 1795644422.0
-    },
-    {
-      "title": "Borussia Dortmund fight back to draw with Arsenal",
-      "summary": "Borussia Dortmund fight back from a goal behind to draw with Arsenal in the Champions League.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e240/live/832f36d0-e860-11f1-a094-5fdc692f3e33.jpg",
-      "source": "BBC Sport",
-      "time": 1795644357.0
     }
   ],
   "international": [
+    {
+      "title": "Weekly sports quiz: What year will the UK host the Women's World Cup?",
+      "summary": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
+      "link": "https://www.bbc.co.uk/sport/articles/cm5y1g91xq3po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5a8/live/4c6ac610-e8fa-11f1-a094-5fdc692f3e33.png",
+      "source": "BBC Sport",
+      "time": 1795680165.0
+    },
     {
       "title": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
       "summary": "Players and officials in Senegal have welcomed the decision to reinstate the West Africans as Afcon 2025 champions, but those in Morocco still contest the decis...",
@@ -162,14 +170,6 @@
       "image": "",
       "source": "The Guardian",
       "time": 1795467730.0
-    },
-    {
-      "title": "IFA 'positive' over upgrades needed for World Cup",
-      "summary": "The Irish Football Association's director of women's football Angela Platt says they are \"still working through\" plans with the Northern Ireland government to e...",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crgqx3472depo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea9/live/8424c170-e74f-11f1-86cc-39a390efba72.jpg",
-      "source": "BBC Sport",
-      "time": 1795447583.0
     },
     {
       "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
@@ -214,7 +214,31 @@
   ],
   "club": [
     {
-      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+      "title": "Dundee United's Farrugia out until new year - gossip",
+      "summary": "Injury blow for Dundee United midfielder as Monaco boss pinpoints Hearts danger men.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6m2lv3k29gpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d731/live/ac0d2b40-e96c-11f1-99b6-a35a62fa4264.png",
+      "source": "BBC Sport",
+      "time": 1795678941.0
+    },
+    {
+      "title": "Chelsea Q&A! Submit your questions as club backs Alonso",
+      "summary": "",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829",
+      "source": "Sky Sports",
+      "time": 1795678140.0
+    },
+    {
+      "title": "The Portuguese second-tier team hosting Celtic in Europe",
+      "summary": "Portuguese second-tier side Torreense host Celtic in the Europa League. But how did they end up here?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c7/live/e5a471f0-c2fd-11f1-b8c6-6d610e41a5d9.jpg",
+      "source": "BBC Sport",
+      "time": 1795677972.0
+    },
+    {
+      "title": "More ref frustration as Pochettino's chaotic start at Man Utd continues",
       "summary": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aff/live/89296710-e930-11f1-99a1-253766e7ad8b.jpg",
@@ -228,6 +252,14 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8572/live/fb0ba300-e92d-11f1-a094-5fdc692f3e33.jpg",
       "source": "BBC Sport",
       "time": 1795652548.0
+    },
+    {
+      "title": "Pochettino claims officials ‘punished’ Manchester United in chaotic Sporting draw",
+      "summary": "Head coach questions ‘difficult to understand’ decisionsArgentinian offers support to Lammens after errorsMauricio Pochettino claimed Manchester United were pun...",
+      "link": "https://www.theguardian.com/football/2026/nov/25/mauricio-pochettino-officials-punished-manchester-united-sporting",
+      "image": "",
+      "source": "The Guardian",
+      "time": 1795650656.0
     },
     {
       "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
@@ -278,7 +310,7 @@
       "time": 1795647540.0
     },
     {
-      "title": "Gordon scores twice in Barca CL win as Bayern lose at Lille",
+      "title": "Gordon scores twice in Barcelona win as Bayern lose at Lille",
       "summary": "",
       "link": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-barcelona-anthony-gordon_7416676.jpg?20261125224913",
@@ -308,38 +340,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174b/live/89b8f780-e91d-11f1-a094-5fdc692f3e33.jpg",
       "source": "BBC Sport",
       "time": 1795645634.0
-    },
-    {
-      "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
-      "summary": "Bayern Munich suffer their first defeat of the Champions League campaign as Lille find the net twice in three minutes in the second half, including a comical Al...",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2605/live/bdc03610-e91d-11f1-a094-5fdc692f3e33.jpg",
-      "source": "BBC Sport",
-      "time": 1795645497.0
-    },
-    {
-      "title": "Isak scores twice as clinical Liverpool beat Brugge",
-      "summary": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last  Champi...",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7011/live/1961c530-e91c-11f1-99b6-a35a62fa4264.jpg",
-      "source": "BBC Sport",
-      "time": 1795644739.0
-    },
-    {
-      "title": "Gordon stars in comfortable Barca win over Sabah",
-      "summary": "Anthony Gordon scores Barcelona's opening two goals as they ease past Sabah with a 4-1 win in the Champions League.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebd6/live/0a4713c0-e903-11f1-a094-5fdc692f3e33.jpg",
-      "source": "BBC Sport",
-      "time": 1795644422.0
-    },
-    {
-      "title": "Borussia Dortmund fight back to draw with Arsenal",
-      "summary": "Borussia Dortmund fight back from a goal behind to draw with Arsenal in the Champions League.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e240/live/832f36d0-e860-11f1-a094-5fdc692f3e33.jpg",
-      "source": "BBC Sport",
-      "time": 1795644357.0
     }
   ],
   "creators": []
